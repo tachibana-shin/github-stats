@@ -134,22 +134,22 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #f1e05a; 
-  width: 25.785%;
+  width: 25.781%;
 " class="progress-item"></span><span style="
   background-color: #800000; 
-  width: 20.301%;
+  width: 20.311%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 15.212%;
+  width: 15.210%;
 " class="progress-item"></span><span style="
   background-color: #00B4AB; 
-  width: 7.575%;
+  width: 7.573%;
 " class="progress-item"></span><span style="
   background-color: #41b883; 
-  width: 6.280%;
+  width: 6.279%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 5.079%;
+  width: 5.078%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
   width: 4.591%;
@@ -158,7 +158,7 @@ div.ellipsis {
   width: 3.906%;
 " class="progress-item"></span><span style="
   background-color: #c6538c; 
-  width: 2.807%;
+  width: 2.806%;
 " class="progress-item"></span><span style="
   background-color: #000080; 
   width: 1.656%;
@@ -173,7 +173,7 @@ div.ellipsis {
   width: 0.961%;
 " class="progress-item"></span><span style="
   background-color: #1d365d; 
-  width: 0.529%;
+  width: 0.528%;
 " class="progress-item"></span><span style="
   background-color: #F05138; 
   width: 0.439%;
@@ -306,7 +306,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Adblock Filter List</span>
-  <span class="percent">20.30%</span>
+  <span class="percent">20.31%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
